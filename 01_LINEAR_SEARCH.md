@@ -1,5 +1,5 @@
 ## Linear Search :
-It suggests start searching from the first element till you find the element you are looking for.
+It suggests, start searching from the first element till you find the element you are looking for.
 
 ```java
 class Main {
@@ -24,7 +24,7 @@ class Main {
 - And the worst case time complexity of linear search is : **O(n)**
 
 ## Number of digits : 
-Suppose we are givent a number and we are asked to find the number of digits present in that number. for example 93498349 has 8 digits.
+Suppose we are given a number and we are asked to find the number of digits present in that number. for example 93498349 has 8 digits.
 
 ```java
 class Main {
