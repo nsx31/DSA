@@ -42,10 +42,10 @@ class Main {
         int[] arr = {2,3,5,9,14,16,18};
         int res = bs(arr,161);
         if(res==-1){
-            System.out.println("ceiling value doesnot exists");
+            System.out.println("floor value doesnot exists");
             return;
         }
-        System.out.println("celing value is: "+arr[res]);
+        System.out.println("floor value is: "+arr[res]);
     }
 
     static int bs(int[] arr, int num){
