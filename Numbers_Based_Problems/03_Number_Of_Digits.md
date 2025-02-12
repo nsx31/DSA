@@ -23,3 +23,12 @@ class Main {
     }
 }
 ```
+
+## Shortcut
+- Simply find the log base 10 of the given number and add 1 to the result.
+```java
+static int numOfDigits(int num){
+    int res = (int)Math.log10(num)+1;
+    return res;
+}
+```
